@@ -1,5 +1,7 @@
 # Contributing: submitting patches and tutorials
 
+Hello Lizzi :)
+
 ## Submitting a pull request
 
 ### Contributor License Agreements
