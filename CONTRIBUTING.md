@@ -1,5 +1,7 @@
 # Contributing: submitting patches and tutorials
 
+Hello Lizzi :)
+
 ## Submitting a pull request
 
 ### Contributor License Agreements
@@ -38,3 +40,6 @@ Otherwise, we will have to ask you to make changes, and that's no fun for anyone
 ## Formatting HTML ##
 
 To simplify PR reviews, please word-wrap HTML files at 80 characters or fewer.
+
+
+Good bye, Lizzi!
